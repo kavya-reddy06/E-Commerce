@@ -1,0 +1,87 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Wireless Headphones",
+      "brand": "Sony",
+      "description": "Noise-cancelling over-ear headphones with 30 hours battery life. Designed for immersive listening with seamless Bluetooth connectivity and all-day comfort. Suitable for work, travel, and everyday music consumption.",
+      "productPraise": "Big sound. Zero wires. Feel every beat like the artist intended. These headphones don’t just play music — they pull you into it.",
+      "price": 9999,
+      "category": "electronics",
+      "stockQuantity": 50,
+      "image": "https://img.freepik.com/premium-vector/black-headphones-white-background-audio-sound-app-icon-design-flat-vector-illustration_1058532-22739.jpg",
+      "releaseDate": "2024-10-15",
+      "productAvailable": true,
+      "rating": 4
+    },
+    {
+      "id": "2",
+      "name": "Denim Jacket",
+      "brand": "Levi's",
+      "description": "Classic blue denim jacket made with durable fabric. Suitable for all seasons and easy to layer with casual or semi-formal outfits.",
+      "productPraise": "Effortlessly cool. Timeless by design.",
+      "price": 3499,
+      "category": "fashion",
+      "stockQuantity": 120,
+      "image": "https://www.gap.com/webcontent/0028/376/125/cn28376125.jpg",
+      "releaseDate": "2023-08-01",
+      "productAvailable": true,
+      "rating": 4.5
+    },
+    {
+      "id": "3",
+      "name": "Atomic Habits",
+      "brand": "Penguin",
+      "description": "A practical self-improvement book focused on building positive habits and breaking negative ones through small, consistent changes.",
+      "productPraise": "A quiet life-changer. Read it once, and your thinking never really goes back to default mode.",
+      "price": 499,
+      "category": "books",
+      "stockQuantity": 0,
+      "image": "https://jamesclear.com/wp-content/uploads/2025/06/atomic-habits-dots.png",
+      "releaseDate": "2020-01-01",
+      "productAvailable": false,
+      "rating": 5
+    },
+    {
+      "id": "4",
+      "name": "Smart Fitness Watch",
+      "brand": "PulsePro",
+      "description": "Fitness smartwatch featuring heart-rate monitoring, sleep tracking, activity insights, and a long-lasting 7-day battery life.",
+      "productPraise": "Your health, decoded on your wrist. Smart, subtle, and always one step ahead.",
+      "price": 4999,
+      "category": "electronics",
+      "stockQuantity": 2,
+      "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30",
+      "releaseDate": "2024-08-08",
+      "productAvailable": true,
+      "rating": 4
+    },
+    {
+      "id": "5",
+      "name": "Noise Cancelling Earbuds",
+      "brand": "EchoBeat",
+      "description": "True wireless earbuds with active noise cancellation, fast charging support, and a compact, lightweight design.",
+      "productPraise": "Tiny size. Serious power. Shut out the noise and stay locked into your world.",
+      "price": 2799,
+      "category": "electronics",
+      "stockQuantity": 3,
+      "image": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df",
+      "releaseDate": "2023-01-02",
+      "productAvailable": false,
+      "rating": 5
+    },
+    {
+      "id": "8cb2",
+      "name": "Mouse",
+      "brand": "Dell",
+      "description": "This is a good mouse, guarantee for more than 2 years, effective, flexible.",
+      "price": "490",
+      "category": "Fashion",
+      "stockQuantity": "0",
+      "image": "https://www.freepnglogos.com/uploads/mouse-png/download-mouse-png-image-png-image-pngimg-9.png",
+      "releaseDate": "2025-12-12",
+      "productAvailable": "false",
+      "rating": "4.5"
+    }
+  ]
+}
