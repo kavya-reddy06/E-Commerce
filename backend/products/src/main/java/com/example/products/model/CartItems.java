@@ -22,7 +22,7 @@ public class CartItems {
     @Setter
     @Getter
     @ManyToOne
-    @JoinColumn(name = "id")
+    @JoinColumn(name = "ProductId")
     private Product product;
 
     @Setter
